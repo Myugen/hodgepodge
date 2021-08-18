@@ -1,0 +1,9 @@
+# Binaries
+utils
+
+# Config files
+.config
+
+# JetBrains IDEs
+.idea
+*.iml
