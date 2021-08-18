@@ -1,4 +1,4 @@
-module github.com/myugen/utils
+module github.com/myugen/hodgepodge
 
 go 1.17
 

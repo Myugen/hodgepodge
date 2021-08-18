@@ -1,6 +1,6 @@
 package config
 
-import "github.com/myugen/utils/internal/gmail"
+import "github.com/myugen/hodgepodge/internal/gmail"
 
 type AppConfig struct {
 	Version string
